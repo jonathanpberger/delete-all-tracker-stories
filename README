@@ -1,0 +1,6 @@
+This is a tiny script to delete all the tracker stories in a project. Be careful with it.
+
+To use:
+- put in your token
+- put in the project id
+- type "ruby delete_all_tracker_stories.rb" at the command line
